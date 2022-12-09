@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class laçoFor_calculaMediaDasNotas {
+public class lacoFor_calculaMediaDasNotas {
 	public static void main(String[] args) {
 //		Escreva um programa que pergunte ao usuário quantos alunos tem na sala dele.
 //		Em seguida, através de um laço for, pede ao usuário para que entre com as notas de todos os alunos da sala, um por vez.

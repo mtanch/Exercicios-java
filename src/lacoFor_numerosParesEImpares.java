@@ -1,5 +1,5 @@
 
-public class laçoFor_numerosParesEImpares {
+public class lacoFor_numerosParesEImpares {
 	public static void main(String[] args) {
 		
 		Integer numerosDe1Ate100 = 100;

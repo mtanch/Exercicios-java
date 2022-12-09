@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class laçoFor_quadradoDeAsteriscosComMeioVazio {
+public class lacoFor_quadradoDeAsteriscosComMeioVazio {
 	public static void main(String[] args) {
 		
 		Integer tamanhoDoQuadrado, comprimentoDoQuadrado,  meioDoQuadrado;
@@ -20,7 +20,7 @@ public class laçoFor_quadradoDeAsteriscosComMeioVazio {
 			for (int j = 0; j < meioDoQuadrado; j++) {
 				System.out.print("\n*"); // primeiro asterisco de cada linha
 				for (int k = 0; k < meioDoQuadrado ; k++) {
-					System.out.print(" "); // espaço vazio dentro do quadrado
+					System.out.print(" "); // espaï¿½o vazio dentro do quadrado
 				}
 				for (int l = 0; l < 1; l++) {
 					System.out.print("*"); // ultimo asterisco de cada linha
@@ -31,7 +31,7 @@ public class laçoFor_quadradoDeAsteriscosComMeioVazio {
 				System.out.print("*"); // ultima linha do quadrado
 			}
 		} else {
-			System.out.println("\nDigite um número entre 1 e 20.");
+			System.out.println("\nDigite um nï¿½mero entre 1 e 20.");
 		}
 		
 		quadradoDeAsteriscosComMeioVazio.close();

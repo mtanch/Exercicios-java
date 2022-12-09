@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class laçoFor_quadradoDeAsteriscos {
+public class lacoFor_quadradoDeAsteriscos {
 	public static void main(String[] args) {
 		
 		Integer tamanhoDoQuadrado;

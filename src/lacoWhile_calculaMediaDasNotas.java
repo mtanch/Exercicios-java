@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class laçoWhile_calculaMediaDasNotas {
+public class lacoWhile_calculaMediaDasNotas {
 	public static void main(String[] args) {
 		
 		Double quantidadeDosAlunosDaSala = 0.0, totalDasNotas = 0.0;
