@@ -1,1 +1,1 @@
-## Lista de exercícios em Java.
+## Lista de exercícios resolvidos Java 
